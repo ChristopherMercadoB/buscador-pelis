@@ -1,0 +1,17 @@
+.container-hero{
+    width: 1200px;
+    display: grid;
+    color: white;
+    /* grid-template-columns: 1fr 2fr; */
+    margin: 20px auto;
+}
+
+.hero-container .image{
+    width: 1200px;
+}
+
+.image img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}

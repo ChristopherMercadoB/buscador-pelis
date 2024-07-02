@@ -1,0 +1,11 @@
+.movie-container{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 20px;
+    row-gap: 60px;
+
+}
+

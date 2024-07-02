@@ -1,0 +1,20 @@
+.container-detail{
+    width: 800px;
+    margin: 0 auto;
+    color: white;
+    line-height: 25px;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 15px;
+    box-shadow: 5px 5px 5px black;
+    margin-bottom: 100px;
+    padding: 20px;
+}
+
+.text-detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
